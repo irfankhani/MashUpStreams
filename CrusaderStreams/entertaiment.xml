@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Added Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed A Couple Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -68,7 +68,21 @@
 	
 <item>
 <title>Al Hayat Cinema</title>
-<link>rtmp://iptv.web-medias.net/live playpath=alhayat_cinema swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/al-hayat-cinema-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_bcbf336e4.html live=true timeout=15</link>
+<link>
+rtmp://193.164.132.105:1944/live playpath=alhayat_cinema?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+<regex>
+<name>e</name>
+<expres>e=([^&]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=alhayat_cinema</page>
+<referer>http://www.web-medias.net/al-hayat-cinema-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_bcbf336e4.html</referer>
+</regex>
+<regex>
+<name>st</name>
+<expres>st=([^<]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=alhayat_cinema</page>
+<referer>http://www.web-medias.net/al-hayat-cinema-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_bcbf336e4.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat_cinema.png</thumbnail>
 </item>
 
@@ -80,7 +94,7 @@
 
 <item>
 <title>Aljadeed (Link 2)</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch99?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ live=true timeout=15</link>
+<link>rtsp://212.83.150.28/channel12</link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
 </item>
 
@@ -212,7 +226,21 @@
 
 <item>
 <title>Fox Movies</title>
-<link>rtmp://iptv.web-medias.net/live playpath=fox_movies swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/fox-movies-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d9%81%d9%88%d9%83%d8%b3-%d9%85%d9%88%d9%81%d9%8a%d8%b2-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_bb9ad992b.html live=true timeout=15</link>
+<link>
+rtmp://193.164.132.105:1944/live playpath=fox_movies?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+<regex>
+<name>e</name>
+<expres>e=([^&]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=fox_movies</page>
+<referer>http://www.web-medias.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html</referer>
+</regex>
+<regex>
+<name>st</name>
+<expres>st=([^<]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=fox_movies</page>
+<referer>http://www.web-medias.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.livetv.tn/images/icons/27.gif</thumbnail>
 </item>
 
@@ -332,7 +360,21 @@
 
 <item>
 <title>MBC MAX</title>
-<link>rtmp://iptv.web-medias.net/live playpath=mbc_max swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/mbc-max-en-direct-live-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B3-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-video_0a915c1da.html</link>
+<link>
+rtmp://193.164.132.105:1944/live playpath=mbc_max?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+<regex>
+<name>e</name>
+<expres>e=([^&]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=mbc_max</page>
+<referer>http://www.web-medias.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html</referer>
+</regex>
+<regex>
+<name>st</name>
+<expres>st=([^<]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=mbc_max</page>
+<referer>http://www.web-medias.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html</referer>
+</regex>
+</link>
 <thumbnail>http://alghaslan.net/wp-content/uploads/MBC-MAX-300x115.jpg</thumbnail>
 </item>
  	
@@ -602,13 +644,40 @@
 
 <item>
 <title>MBC 3  (Link 2)</title>
-<link>rtmp://iptv.web-medias.net/live playpath=mbc_3 swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/mbc-3-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_43d5f93f1.html</link>
+<link>
+rtmp://193.164.132.105:1944/live playpath=mbc_3?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+<regex>
+<name>e</name>
+<expres>e=([^&]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=mbc_3</page>
+<referer>http://www.web-medias.net/mbc-3-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_43d5f93f1.html</referer>
+</regex>
+<regex>
+<name>st</name>
+<expres>st=([^<]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=mbc_3</page>
+<referer>http://www.web-medias.net/mbc-3-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_43d5f93f1.html</referer>
+</regex>
+</link>
 <thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
 </item>
 
 <item>
 <title>MBC 4  (Link 2)</title>
-<link>rtmp://iptv.web-medias.net/live playpath=mbc_4 swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/mbc-4-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-4-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_afae7466f.html</link>
+rtmp://193.164.132.105:1944/live playpath=mbc_4?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+<regex>
+<name>e</name>
+<expres>e=([^&]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=mbc_4</page>
+<referer>http://www.web-medias.net/mbc-4-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-4-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_afae7466f.html</referer>
+</regex>
+<regex>
+<name>st</name>
+<expres>st=([^<]*)</expres>
+<page>http://www.web-medias.net/iptv/?ch=mbc_4</page>
+<referer>http://www.web-medias.net/mbc-4-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-4-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_afae7466f.html</referer>
+</regex>
+</link>
 <thumbnail>http://aflam4you.tv/uploads/thumbs/71-1.jpg</thumbnail>
 </item>
 
