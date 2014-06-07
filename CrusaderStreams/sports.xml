@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Updated Source 2, 4[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): HD SOURCE 2 ADDED[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -274,7 +274,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 11 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 11 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -290,7 +290,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc9.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-11-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
 </item>
 
 <item>
@@ -354,7 +354,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 7 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 7 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -362,7 +362,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <expres>'streamer','([^']*)</expres>
 <page>http://www.eucast.tv/embed.php?live=b7n&vw=620&vh=490</page>
 <referer>http://skysport.tv/update/jsc7.php</referer>
-</regex>
+</regex>7
 <regex>
 <name>file</name>
 <expres>'file','([^']*)</expres>
@@ -370,7 +370,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc7.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-7-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
 </item>
 
 <item>
@@ -420,7 +420,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 5 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 5 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -436,7 +436,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc5.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-5-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
 
 <item>
@@ -486,7 +486,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 6 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 6 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -502,7 +502,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc6.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-6-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
 
 <item>
@@ -558,7 +558,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 3 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 3 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -574,7 +574,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc3.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-3-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/LaMq1FJ.jpg</thumbnail>
 </item>
 
 <item>
@@ -636,7 +636,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 2 (Link 4) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 2 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -652,7 +652,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc2.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-2-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
 </item>
 
 <item>
@@ -702,7 +702,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 4 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 4 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -718,7 +718,7 @@ $doregex[streamer] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf l
 <referer>http://skysport.tv/update/jsc4.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-4-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
 
 <item>
@@ -780,7 +780,7 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 8 (Link 3) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 8 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -796,7 +796,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc8.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-8-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
 <item>
@@ -896,10 +896,9 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 <link>rtmpe://strm.ukcast.tv/redirect playpath=bein1desii swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
 <thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-1-315x270.jpg</thumbnail>
 </item>
-rtmp://31.220.0.133:1935/live<playpath>b1rx <swfUrl>http://www.eucast.tv/ePlayerr.swf <pageUrl>http://www.eucast.tv/embed.php?live=b1rx&vw=620&vh=490
 
 <item>
-<title>Bein 1 (Link 4)[COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
+<title>Bein 1 HD (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 2[/COLOR]</title>
 <link>
 $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.eucast.tv/ePlayerr.swf live=true timeout=15 pageUrl=http://www.eucast.tv/
 <regex>
@@ -915,7 +914,7 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <referer>http://skysport.tv/update/jsc1.php</referer>
 </regex>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-1-315x270.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item> 
 
 <item>
