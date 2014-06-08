@@ -12,13 +12,13 @@
 
 <item>
 <title>Panamericana</title>
-<link>http://stream-ak.vty.dmcdn.net/02/dm/1/x18w5up/live.isml/live.m3u8?rebase=on</link>
+<link>http://stream-ak.vty.dmcdn.net/05/dm/1/x18w5up/live.isml/live.m3u8?rebase=on</link>
 <thumbnail>http://www.panamericana.pe/imagenes/cabecera/panamericana-2013.png</thumbnail>
 </item>
 
 <item>
 <title>America Television</title>
-<link>http://d2fza2d8aggsjf.cloudfront.net/liveedge/smil:americatvgo_PC.smil/media-utdtxhvaf_b500000_5423.ts</link>
+<link>rtmp://208.101.9.155/live playpath=zeyuamerica30?id=203147 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/zeyuamerica30/1/620/382</link>
 <thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>
 </item>
 
