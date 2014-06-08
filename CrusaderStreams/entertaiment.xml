@@ -664,6 +664,7 @@ rtmp://193.164.132.105:1944/live playpath=mbc_3?e=$doregex[e]&amp;st=$doregex[st
 
 <item>
 <title>MBC 4  (Link 2)</title>
+<link>
 rtmp://193.164.132.105:1944/live playpath=mbc_4?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
 <regex>
 <name>e</name>
