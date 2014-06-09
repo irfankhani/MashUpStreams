@@ -37,32 +37,6 @@ rtmp://cp106256.live.edgefcs.net/live?videoId=$doregex[url]&amp;lineUpId=&amp;pu
 </item>
 
 <item>
-<title>ABS-CBN</title>
-<link>
-rtmp://cp106256.live.edgefcs.net:443/live?videoId=$doregex[url]&amp;lineUpId=&amp;pubId=$doregex[url1]&amp;playerId=$doregex[url2]&amp;affiliateId=/ playpath=iwantabs-256@36979?videoId=$doregex[url]&amp;lineUpId=&amp;pubId=$doregex[url1]&amp;playerId=$doregex[url2]&amp;affiliateId= swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html
-<regex>
-<name>url</name>
-<expres>videoId=([^&]*)</expres>
-<page>http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>url1</name>
-<expres>pubId=([^&]*)</expres>
-<page>http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>url2</name>
-<expres>playerId=([^&]*)</expres>
-<page>http://www.telebyuwers.ph/p/abs-cbn-live-stream-tv.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.smsupermalls.com/sites/default/files/abs_cbn_logo.png</thumbnail>
-</item>
-
-<item>
 <title>TV 5</title>
 <link>http://edge.pldt.swiftserve.com/live/mediascape/amlst:tv5/playlist.m3u8</link>
 <thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/tv5_zpsa48341ab.png</thumbnail>

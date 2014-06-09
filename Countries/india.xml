@@ -352,7 +352,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>NDTV 24x7</title>
-<link>http://bglive-a.bitgravity.com/ndtv/247hi/live/native</link>
+<link>http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live256</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_24x7.png</thumbnail>
 </item>
 
