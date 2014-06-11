@@ -53,43 +53,27 @@
 </item>
 
 <item>
-<title>Telemundo HD</title>
-<link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/channel/20639</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/channel/20639</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://influentialaccess.files.wordpress.com/2012/03/telemundo.jpg</thumbnail>
+<title>Telemundo</title>
+<link>rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_telemar15 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemar15 token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/telemar6_320.jpg</thumbnail>
 </item>
 
 <item>
 <title>Univision</title>
-<link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/channel/15648</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/channel/15648</page>
-<referer> </referer>
-</regex>
-</link>
+<link>rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_unimar7 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/unimar7 token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15</link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>
+</item>
+
+<item>
+<title>AZTECA 13</title>
+<link>http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_1_av-b.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-55_VRxl_ugM/TkwmLmX_yAI/AAAAAAAAAFg/7rZH8LvQGZk/s1600/azteca13hd.png</thumbnail>
+</item>
+
+<item>
+<title>AZTECA 7 HD</title>
+<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-upmimGFngTc/Usnpk4oLd6I/AAAAAAAABZU/uPxJw1VVShg/s1600/VER+AZTECA+7+EN+VIVO+-++MAURY+TV.png</thumbnail>
 </item>
 
 <item>

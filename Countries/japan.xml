@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Japanese TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>NHK World</title>
+<link>http://nhkworld-hds-live1.hds1.fmslive.stream.ne.jp/hds-live/nhkworld-hds-live1/_definst_/livestream/nhkworld-live-512.f4m</link>
+<thumbnail>http://api.sh.nhk.fivecool.tv/files/thumbnails/2/85/8f/3c9b31.png</thumbnail>
+</item>
+
+</channel>

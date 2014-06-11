@@ -30,7 +30,7 @@
 
 <item>
 <title>ORF 2 (Link 2)</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=orf2.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=orf2.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://megatv.to/wp-content/uploads/2013/11/orf2-225x158.png</thumbnail>
 </item>
 
@@ -92,7 +92,8 @@ http://ipm.iphone-tv.eu:1345/index.m3u8?c=kika&amp;auth=$doregex[url]&amp;gts=fa
 
 <item>
 <title>ZDF (Link 2)</title>
-<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=zdf&amp;auth=$doregex[url]&amp;gts=true
+<link>
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=zdf&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -129,7 +130,7 @@ http://ipm.iphone-tv.eu:1345/index.m3u8?c=kika&amp;auth=$doregex[url]&amp;gts=fa
 
 <item>
 <title>RTL (Link 2)</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=rtl.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=rtl.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_at.jpg</thumbnail>
 </item>
 
@@ -147,7 +148,8 @@ http://ipm.iphone-tv.eu:1345/index.m3u8?c=kika&amp;auth=$doregex[url]&amp;gts=fa
 
 <item>
 <title>Das Erste (Link 2)</title>
-<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=daserste&amp;auth=$doregex[url]&amp;gts=true
+<link>
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=daserste&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -161,7 +163,7 @@ http://ipm.iphone-tv.eu:1345/index.m3u8?c=kika&amp;auth=$doregex[url]&amp;gts=fa
 <item>
 <title>3Sat</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=3sat&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -174,13 +176,14 @@ $doregex[url]
 
 <item>
 <title>ATV</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=atv.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=atv.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/ATV1.jpeg</thumbnail>
 </item>
 
 <item>
 <title>Disney Channel</title>
-<link>$doregex[url]
+<link>
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=dasvierte&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -193,7 +196,8 @@ $doregex[url]
 
 <item>
 <title>Nick</title>
-<link>$doregex[url]
+<link>
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=nick&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -207,7 +211,7 @@ $doregex[url]
 <item>
 <title>Dmax</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=dmax&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -221,7 +225,7 @@ $doregex[url]
 <item>
 <title>Eurosport</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=eurosport&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -234,7 +238,7 @@ $doregex[url]
 
 <item>
 <title>Kabel 1</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=kabel1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=kabel1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kabel_eins.png</thumbnail>
 </item>
 
@@ -246,44 +250,44 @@ $doregex[url]
 
 <item>
 <title>Pro7</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=pro7.stream swfUrl=http://stream.live-stream.tv/player.php live=true timeout=15 pageUrl=http://www.live-stream.tv/online/fernsehen/pro7.html#tab2-tab</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=pro7.stream swfUrl=http://stream.live-stream.tv/player.php live=true timeout=15 pageUrl=http://www.live-stream.tv/online/fernsehen/pro7.html#tab2-tab</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png</thumbnail>
 </item>
 
 <item>
 <title>RTL 2</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=rtl2.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=rtl2.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_at.png</thumbnail>
 </item>
 
 <item>
 <title>RTL Nitro</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=rtlnitro.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=rtlnitro.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_nitro_de.png</thumbnail>
 </item>
 
 <item>
 <title>Super RTL (Link 2)</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=superrtl.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=superrtl.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/super_rtl_at.png</thumbnail>
 </item>
 
 <item>
 <title>SF 1</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=sf1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=sf1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/27/SF_1_logo.png</thumbnail>
 </item>
 
 <item>
 <title>Sixx</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=sixx.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=sixx.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sixx.png</thumbnail>
 </item>
 
 <item>
 <title>Sport 1</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=sport1&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -297,7 +301,7 @@ $doregex[url]
 <item>
 <title>Viva</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=viva&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -311,7 +315,7 @@ $doregex[url]
 <item>
 <title>Tele 5</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=tele5&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
 <expres>tv\|\|([^\|]*)</expres>
@@ -330,19 +334,19 @@ $doregex[url]
 
 <item>
 <title>SAT1</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=sat1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=sat1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.jpg</thumbnail>
 </item>
 
 <item>
 <title>VOX</title>
-<link>rtmp://194.71.95.108:1935/live/ playpath=vox.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
+<link>rtmp://server.az1.stream-server.org:1935/live playpath=vox.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/</link>
 <thumbnail>http://4.bp.blogspot.com/-2_2zXUYZJHs/UW02asERLiI/AAAAAAAAAJM/GkUg6mll8X8/s1600/Vox.jpg</thumbnail>
 </item>
 
 <item>
 <title>Mühlviertel TV</title>
-<link>rtmp://sw6dh53qqk9ox.cloudfront.net/cfx/st/ playpath=mp4:videos-hl/live-5e4420db-eacb-4f38-a7f7-6272e157ec7b.mp4 swfUrl=http://www.muehlviertel.tv/static/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.muehlviertel.tv/live</link>
+<link>rtmp://sw6dh53qqk9ox.cloudfront.net/ app=cfx/st/ playpath=mp4:videos-hl/live-5e4420db-eacb-4f38-a7f7-6272e157ec7b.mp4 swfUrl=http://www.muehlviertel.tv/static/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.muehlviertel.tv/live</link>
 <thumbnail>http://www.sterngartl-kutscher.at/content/media/muehlviertel-tv_logo.jpg</thumbnail>
 </item>
 
