@@ -6,7 +6,7 @@
 
 <item>
 <title>Star Gold</title>
-<link>http://38.112.56.153/flv/4dd469a36a357/testat123?0.649601852055639</link>
+<link>http://154.57.145.146/flv/4e0e6f4dcc2d3/testat123?0.5491284648887813</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
@@ -64,20 +64,6 @@ rtmp://dittotv.live-s.cdn.bitgravity.com/ app=cdn-live/_definst_ playpath=$doreg
 </regex>
 </link>
 <thumbnail>https://yt3.ggpht.com/-2fti7jdUx94/AAAAAAAAAAI/AAAAAAAAAAA/umcW8FMfhvE/s900-c-k-no/photo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Star Gold (Link 2)</title>
-<link>
-$doregex[url] pageUrl=http://www.zingo.tv/
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://zingo.tv/watch.php?id=3726&amp;width=600&amp;height=450</page>
-<referer>http://desistreams.tv/embed/star_gold.php</referer>
-</regex>
-</link>
-<thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
 </item>
 
 <item>
@@ -493,29 +479,11 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 </item>
 
 <item>
-<title>Peace TV</title>
-<link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Lamhe</title>
-<link>http://46.249.213.93/iPhone/broadcast/zeecafe-tablet.3gp/zeecafe-tablet.3gp-mr648k.m3u8?trackingid=4441370000&os=desktop</link>
-<thumbnail>http://static.timefor.tv/imgs/epg/logos/lamhe_big.png</thumbnail>
-</item>
-
-<item>
 <title>Star Movies</title>
-<link>http://154.57.145.136/flv/52e610b6955aa/testat123?0.19365005567669868</link>
+<link>http://154.57.145.146/flv/52e610b6955aa/testat123?0.6411761301569641</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 </channel>
-</item>
-
-<item>
-<title>ZEE SMILE</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/</link>
-<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
 </item>
 
 <item>
@@ -532,7 +500,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>Zee Cinema</title>
-<link>http://38.112.56.153/flv/4dd469a36a357/testat123?0.47449064161628485</link>
+<link>http://154.57.145.115/flv/4dd469a36a357/testat123?0.44076825166121125</link>
 <thumbnail>http://images.wikia.com/logopedia/images/4/48/Zee_Cinema_2011.png</thumbnail>
 </item>
 
