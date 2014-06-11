@@ -153,26 +153,6 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </item>
 
 <item>
-<title>Bein 13 [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 7[/COLOR]</title>
-<link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=15
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=22228&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
-<referer>http://live9.net/liveninebein13</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=22228&amp;wh=640&amp;ht=480&amp;r=live9.net</page>
-<referer>http://live9.net/liveninebein13</referer>
-</regex>
-</link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-13-315x270.jpg</thumbnail>
-</item>
-
-<item>
 <title>Bein 14 HD [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 1[/COLOR]</title>
 <link>
 $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15
@@ -276,20 +256,6 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/yuzQdoY.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein 11 (Link 2) [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Source 4[/COLOR]</title>
-<link>
-$doregex[url] pageUrl=http://www.zingo.tv/
-<regex>
-<name>url</name>
-<expres>'streamer','([^']*)</expres>
-<page>http://zingo.tv/watch.php?id=2972&amp;width=100%&amp;height=100%</page>
-<referer>http://showsport-tv.com/update/bein11.html</referer>
-</regex>
-</link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/bs-11-315x270.jpg</thumbnail>
 </item>
 
 <item>

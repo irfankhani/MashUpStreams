@@ -49,10 +49,10 @@
 <item>
 <title>KIKA (Link 2)</title>
 <link>
-$doregex[url]
+http://ipm.iphone-tv.eu:1345/index.m3u8?c=kika&amp;auth=$doregex[url]&amp;gts=false
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/48</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -91,16 +91,21 @@ $doregex[url]
 </item>
 
 <item>
-<title>ZDF</title>
-<link>
-$doregex[url]
+<title>ZDF (Link 2)</title>
+<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=zdf&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/19</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
 </link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZDF  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://zdf_hds_de-f.akamaihd.net/z/de14_v1@147090/manifest.f4m</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de_hd.jpg</thumbnail>
 </item>
 
@@ -135,11 +140,17 @@ $doregex[url]
 </item>
 
 <item>
-<title>Das Erste</title>
-<link>$doregex[url]
+<title>Das Erste  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<link>http://daserste_live-lh.akamaihd.net/z/daserste_int@91203/manifest.f4m</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/725px-Das_Erste_HD_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Das Erste (Link 2)</title>
+<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=daserste&amp;auth=$doregex[url]&amp;gts=true
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/44</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -153,7 +164,7 @@ $doregex[url]
 $doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/49</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -172,7 +183,7 @@ $doregex[url]
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/45</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -185,7 +196,7 @@ $doregex[url]
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/43</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -199,7 +210,7 @@ $doregex[url]
 $doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/62</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -213,7 +224,7 @@ $doregex[url]
 $doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/22</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -229,15 +240,7 @@ $doregex[url]
 
 <item>
 <title>N24</title>
-<link>
-$doregex[url]
-<regex>
-<name>url</name>
-<expres>URL = "([^"]*)</expres>
-<page>http://de.iphone-tv.eu/stream/de/71</page>
-<referer>http://de.iphone-tv.eu/channels/de</referer>
-</regex>
-</link>
+<link>http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8</link>
 <thumbnail>https://www.triple-it.nl/resources/files/images/n24.jpg</thumbnail>
 </item>
 
@@ -283,7 +286,7 @@ $doregex[url]
 $doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/52</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -297,7 +300,7 @@ $doregex[url]
 $doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/40</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
@@ -311,7 +314,7 @@ $doregex[url]
 $doregex[url]
 <regex>
 <name>url</name>
-<expres>URL = "([^"]*)</expres>
+<expres>tv\|\|([^\|]*)</expres>
 <page>http://de.iphone-tv.eu/stream/de/33</page>
 <referer>http://de.iphone-tv.eu/channels/de</referer>
 </regex>
