@@ -762,14 +762,14 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 <regex>
 <name>url</name>
 <expres>\'streamer\':           \'(.+?)\'</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=bch1&vw=800&vh=500&domain=strmh24.com</page>
-<referer>http://strmh24.com/emb/ch37.php?W=800&H=500</referer>
+<page>http://www.hdcast.org/embedlive2.php?u=bch1&amp;vw=800&amp;vh=500&amp;domain=strmh24.com</page>
+<referer>http://strmh24.com/emb/ch37.php?W=800&amp;H=500</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>\'file\':               \'(.+?)\'</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=bch1&vw=800&vh=500&domain=strmh24.com</page>
-<referer>http://strmh24.com/emb/ch37.php?W=800&H=500</referer>
+<page>http://www.hdcast.org/embedlive2.php?u=bch1&amp;vw=800&amp;vh=500&amp;domain=strmh24.com</page>
+<referer>http://strmh24.com/emb/ch37.php?W=800&amp;H=500</referer>
 </regex>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
