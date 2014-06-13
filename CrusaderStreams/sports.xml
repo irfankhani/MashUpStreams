@@ -225,13 +225,13 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 <regex>
 <name>url</name>
 <expres>\'streamer\':           \'(.+?)\'</expres>
-<page>http://cdn.watchjsc.us/embed.php?u=bein11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
+<page>http://cdn.watchjsc.us/embed.php?u=bein11hd&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://funkeysports.com/watch/beinsports-11-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>\'file\':               \'(.+?)\'</expres>
-<page>http://cdn.watchjsc.us/embed.php?u=bein11&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
+<page>http://cdn.watchjsc.us/embed.php?u=bein11hd&amp;vw=640&amp;vh=460&amp;domain=hdfoots.com</page>
 <referer>http://funkeysports.com/watch/beinsports-11-live-stream.php</referer>
 </regex>
 </link>
@@ -753,6 +753,12 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 </regex>
 </link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/bein-sport-12HD.png</thumbnail>
+</item>
+
+<item>
+<title>World Cup ARABIC</title>
+<link>rtmpe://80.82.70.239:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=1734 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/?id=21443 live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/e/e8/WC-2014-Brasil.svg/719px-WC-2014-Brasil.svg.png</thumbnail>
 </item>
 
 <item>
