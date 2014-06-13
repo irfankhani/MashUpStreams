@@ -6,13 +6,13 @@
 
 <item>
 <title>Tolo News HD [COLOR=FFFF0000]Working[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Su_fIt0LQlk</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Su_fIt0LQlk#t=940493</link>
 <thumbnail>https://yt3.ggpht.com/-bn1yErkuAgU/AAAAAAAAAAI/AAAAAAAAAAA/M7TMGUrGVBk/s900-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>AMC</title>
-<link>http://8.21.48.54/AMC?TICKET=f4acd62462efca2464b6165725778cb9|90824884</link>
+<link>http://38.117.88.155/AMC?TICKET=ebf5d475a2aee48e622d4d3e2e26f60f|90775828</link>
 <thumbnail>http://3.bp.blogspot.com/-kvdmUe4TvvY/UxRdhDbTXLI/AAAAAAAAATI/A_r5eFGCQR8/s1600/Amc+Afghan+music+Channel.jpg</thumbnail>
 </item>
 
@@ -30,7 +30,13 @@
 
 <item>
 <title>Ariana Afghanistan</title>
-<link>http://38.117.88.76/ArianaAfghan?TICKET/path/to/media.file</link>
+<link>rtsp://50.97.117.4/AFG-ATN-MAIN</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/ariana_tv_network_international.png</thumbnail>
+</item>
+
+<item>
+<title>Ariana International</title>
+<link>rtsp://50.97.117.4/AFG-AINT-MAIN</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ariana_tv_network_international.png</thumbnail>
 </item>
 
@@ -48,7 +54,7 @@
 
 <item>
 <title>RTA Milli</title>
-<link>http://8.21.48.52/RTA?TICKET=76b7695e90083d60b0f9775f8c7ca424|90824586</link>
+<link>rtsp://50.97.117.4/AFG-RTA-MAIN</link>
 <thumbnail>http://livetv.liveafghantv.com/images/tv/tv_rta.jpg</thumbnail>
 </item>
 
