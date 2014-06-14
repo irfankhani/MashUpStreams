@@ -836,13 +836,13 @@ $doregex[streamer] playpath=$doregex[file] token=%ZZri(nKa@#Z swfUrl=http://www.
 <regex>
 <name>streamer</name>
 <expres>'streamer','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=bein1&amp;vw=620&amp;vh=490</page>
+<page>http://www.eucast.tv/embed.php?live=bein3&amp;vw=620&amp;vh=490</page>
 <referer>http://cricfree.eu/update/jsc1.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file','([^']*)</expres>
-<page>http://www.eucast.tv/embed.php?live=bein1&amp;vw=620&amp;vh=490</page>
+<page>http://www.eucast.tv/embed.php?live=bein3&amp;vw=620&amp;vh=490</page>
 <referer>http://cricfree.eu/update/jsc1.php</referer>
 </regex>
 </link>
