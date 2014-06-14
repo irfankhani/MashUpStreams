@@ -798,13 +798,13 @@ $doregex[url] playpath=$doregex[file] swfUrl=http://cdn.watchjsc.us/jwplayer.swf
 <regex>
 <name>url</name>
 <expres>\'streamer\':           \'(.+?)\'</expres>
-<page>http://hdcast.org/embedwihd.php?id=bein1hd&amp;width=640&amp;height=460</page>
+<page>http://cdn.watchjsc.us/embed.php?u=bein007&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com</page>
 <referer>http://funkeysports.com/live/beinsports-1-live-stream.php</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>\'file\':               \'(.+?)\'</expres>
-<page>http://hdcast.org/embedwihd.php?id=bein1hd&amp;width=640&amp;height=460</page>
+<page>http://cdn.watchjsc.us/embed.php?u=bein007&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com</page>
 <referer>http://funkeysports.com/live/beinsports-1-live-stream.php</referer>
 </regex>
 </link>
