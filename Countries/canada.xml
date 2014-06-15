@@ -10,4 +10,22 @@
 <thumbnail>http://www.theshoppingchannel.com/Content/en_CA/Assets/images/logo-tsc02.png</thumbnail>
 </item>
 
+<item>
+<title>LCN</title>
+<link>rtmp://cp39414.live.edgefcs.net/live/argent@9751 playpath=argent@9751 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.stream2video.tv/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lcn_ca.png</thumbnail>
+</item>
+
+<item>
+<title>Metro Vision</title>
+<link>rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/</link>
+<thumbnail>http://www.stream2video.tv/images/streams/logo_metrovision.jpg</thumbnail>
+</item>
+
+<item>
+<title>SLTV</title>
+<link>rtmp://saltandlighttv.streamguys.net:80/live/ playpath=sltviphone.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/9.html</link>
+<thumbnail> </thumbnail>
+</item>
+
 </channel>
