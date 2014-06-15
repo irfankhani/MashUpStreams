@@ -30,7 +30,7 @@
 
 <item>
 <title>Ariana Afghanistan</title>
-<link>rtsp://50.97.117.4/AFG-ATN-MAIN</link>
+<link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://boxelet.com/flow/flowplayer-3.2.18.swf pageUrl=http://boxelet.com/flow/ariana.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ariana_tv_network_international.png</thumbnail>
 </item>
 
