@@ -30,7 +30,7 @@
 
 <item>
 <title>Ariana Afghanistan</title>
-<link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://boxelet.com/flow/flowplayer-3.2.18.swf pageUrl=http://boxelet.com/flow/ariana.php</link>
+<link>rtmp://uni2rtmp.tulix.tv:1935/ariana playpath=ariana swfUrl=http://boxelet.com/flow/flowplayer-3.2.18.swf live=ture timeout=60 pageUrl=http://boxelet.com/flow/ariana.php</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ariana_tv_network_international.png</thumbnail>
 </item>
 
@@ -48,7 +48,7 @@
 
 <item>
 <title>Gem Dari</title>
-<link>rtmp://iriptv.com/iriptvserver3 playpath=29.stream swfUrl=http://iriptv.com/player/player.swf pageUrl=http://iriptv.com/web/index.php</link>
+<link>rtmp://iriptv.com/iriptvserver3 playpath=29.stream swfUrl=http://iriptv.com/player/player.swf live=ture timeout=60 pageUrl=http://iriptv.com/web/index.php</link>
 <thumbnail>http://www.gemdari.tv/images/logo_gemtv.png</thumbnail>
 </item>
 
