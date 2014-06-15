@@ -11,6 +11,12 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
+<item>
+<title>testf4m</title>
+<link>http://foot.bsdillc.com/peergetCM_manifest.f4m</link>
+<thumbnail></thumbnail>
+</item>
+
 <info>
 <message>[COLOR=FFFF0000]Important: Make Sure Your Librtmp Is Updated[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
@@ -238,7 +244,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <sublink>rtmpe://185.27.237.122:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein10hd365 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/?id=21443 live=1</sublink>
 <sublink>rtmpe://159.253.143.36:1935/redirect playpath=bein10 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=true live=true timeout=15</sublink>
 </link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/beinsport_10hd.jpg</thumbnail>
+<thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-10hd-live-regarder-bein-sport-10-hd-en-direct-gratuit-11334154.jpg</thumbnail>
 </item>
 
 <item>
