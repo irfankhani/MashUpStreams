@@ -6,8 +6,20 @@
 
 <item>
 <title>KBS 24</title>
-<link>rtmp://news24kbs-2.gscdn.com/news24_home_800/_definst_/ playpath=?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFNTMwQTBEMDQyNEZCJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9MDgwRjBBRDc0OEM4JnBhdGg9L25ld3MyNF9ob21lXzgwMC9fZGVmaW5zdF8vbmV3czI0X2hvbWVfODAwLnN0cmVhbSZmaWxlPW5ld3MyNF9ob21lXzgwMC5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNzE3OTgxMTg= swfUrl=http://news.kbs.co.kr/js/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://news.kbs.co.kr/news/news24Category.do?source=http://www.lookfortv.com/en/countmedia.php?c=6844</link>
+<link>
+rtmp://news24kbs-2.gscdn.com/ app=news24_home_800/_definst_/  playpath=?id=2101&amp;secure=$doregex[token] conn=S:OK swfUrl=http://news.kbs.co.kr/js/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://news.kbs.co.kr/
+<regex>
+<name>token</name>
+<expres>secure=([^"]*)</expres>
+<page>http://news.kbs.co.kr/news/getNews24VodUrlNew.do</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://thewatchtv.com/wp-content/uploads/2013/04/Watch-KBS-24-News-Live-TV-from-South-Korea.jpg</thumbnail>
 </item>
+
+
+
+
 
 </channel>

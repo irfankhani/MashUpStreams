@@ -10,4 +10,17 @@
 <thumbnail>http://api.sh.nhk.fivecool.tv/files/thumbnails/2/85/8f/3c9b31.png</thumbnail>
 </item>
 
+<item>
+<title>24小時關西頻道二號</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/17207208/streams/live/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>24小時關西頻道</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/18285252/streams/live/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
 </channel>
