@@ -7,13 +7,18 @@
 <item>
 <title>Caracol TV</title>
 <link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
+rtmp://go.fasts.tv/ app=fasts playpath=$doregex[file] token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
 <regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=11470&amp;wh=600&amp;ht=382&amp;r=cdn.mirando.me</page>
-<referer>http://cdn.mirando.me/caracol1.php?width=600&amp;height=382</referer>
+<name>token</name>
+<expres>"token":"([^"]*)</expres>
+<page>http://www.fasts.tv/file.php</page>
+<referer>http://www.fasts.tv</referer>
 </regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^ .]*)</expres>
+<page>http://www.fasts.tv/embedplayer.php?width=640&amp;height=410&amp;id=caracol19&amp;autoplay=true</page>
+<referer>http://www.mitierratvco2.com/canales/canal205.html</referer>
 </link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
 </item>

@@ -18,7 +18,7 @@
 
 <item>
 <title>America Television</title>
-<link>rtmp://89.248.174.31/live/ app=?u=nadieveatvXD playpath=nadieveatvXD swfUrl=http://stream4u.eu/player/player.swf live=true timeout=15 pageUrl=http://www.stream4u.eu/</link>
+<link>http://d3omloebzr61ev.cloudfront.net/liveedge/smil:americatvgo_PC.smil/chunklist_b800000.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-s0trtn50v28/URbZZkIqGYI/AAAAAAAAC-8/jERp8mmTRck/s1600/logoameric.jpg</thumbnail>
 </item>
 
@@ -30,7 +30,7 @@
 
 <item>
 <title>ATV</title>
-<link>rtmp://d95.iblups.com/ app=lives playpath=Zld5BoM1Ne swfUrl=http://iblups.com/playertvlive123456789panamericanatv.swf?config=configpanamericanatv%2Exml live=true timeout=15 pageUrl=http://iblups.com/e_atv-520-343</link>
+<link>rtmp://173.193.227.91/live Playpath=hambre?id=205096 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/hambre/1/620/382 live=true timeout=15</link>
 <thumbnail>http://4.bp.blogspot.com/-pSHGTkx9ttA/URbZa4B39WI/AAAAAAAAC_Q/MKH-NvUoAa4/s1600/logoatv.jpg</thumbnail>
 </item>
 

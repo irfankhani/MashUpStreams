@@ -6,13 +6,13 @@
 
 <item>
 <title>TV Pública</title>
-<link>rtmp://active.telecomcdn.com/canal7vivoflash/canal7vivoflash/livestream/</link>
+<link>http://prepublish.a.qaotic.net/epb/c7live02Internacional-20034/manifest.f4m</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </item>
 
 <item>
 <title>Telefe</title>
-<link>rtmp://50.115.121.180/zenex playpath=notemuerasnuncazenex?id=71 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/telefe1234/1/530/380</link>
+<link>rtmp://cp129990.live.edgefcs.net/live/ playpath=notidiario@190117 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.sintelevisor.com/tv/canales/telefe.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telefe.png</thumbnail>
 </item>
 
@@ -24,13 +24,13 @@
 
 <item>
 <title>America TV</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/4700613/streams/live/playlist.m3u8</link>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/17916695/streams/live/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/america_ar.png</thumbnail>
 </item>
 
 <item>
 <title>Canal 9</title>
-<link>rtmp://174.37.252.220/zenex playpath=egtv102?id=3520 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/egtv102/1/500/380</link>
+<link>rtmp://72.46.226.53:80/live01/_definst_ playpath=canal91 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf live=true timeout=15 pageUrl=http://fpdownload.adobe.com/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal9_ar.png</thumbnail>
 </item>
 
@@ -42,13 +42,13 @@
 
 <item>
 <title>TN Noticias</title>
-<link>http://stream.tn.com.ar/live/tnhd1/playlist.m3u8</link>
+<link>http://admtvlive-f.akamaihd.net/tnmulti1_1_1@135364?v=2.11.3&amp;fp=WIN%2014,0,0,125&amp;r=TDKJN&amp;g=TWDEOVLHKHMX</link>
 <thumbnail>http://www.grupoclarin.com/en/sites/default/files/logo_tn_0_0.jpg</thumbnail>
 </item>
 
 <item>
 <title>TYC Sports</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=egt55 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<link>http://lsdinfobaehds-lh.akamaihd.net/z/infobaehds_1@179878/manifest.f4m</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png</thumbnail>
 </item>
 
@@ -60,13 +60,13 @@
 
 <item>
 <title>ESPN</title>
-<link>rtmp://5.63.151.44/live playpath=esdadoi8889?id=202731 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/lizzy1223/1/750/450</link>
+<link>http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish1/kLive/smil:0_wmgs085t_all.smil/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_lam.png</thumbnail>
 </item>
 
 <item>
-<title>DirecTV </title>
-<link>rtmp://206.190.139.28/live playpath=directv10?id=1989 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/directv10/1/585/400</link>
+<title>DirecTV</title>
+<link>rtmp://5.63.146.236/live playpath=directv2016?id=205954 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.mips.tv/embedplayer/directv2016/1/620/385</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/directv_lam_sports.png</thumbnail>
 </item>
 
