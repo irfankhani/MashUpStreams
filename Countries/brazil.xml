@@ -42,7 +42,7 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>O Globo HD</title>
-<link>rtmp://m.streamfull.com.ar:8979/live playpath=globotv swfUrl=http://streamfull.com.ar/js.swf live=true timeout=15 pageUrl=http://tv-online.in/globo-tv-live-hd</link>
+<link>rtmpe://live.flexstream.net/redirect/ playpath=bob9784 pageurl=http://flexstream.net</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 
@@ -72,7 +72,7 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>Band</title>
-<link>rtmpe://89.248.168.41:443/liveedge/ playpath=ch19-Ck7KYDE5Ox pageUrl=http://livecast.cc/live/stream7.php</link>
+<link>rtmp://173.193.20.136:1935/mtv playpath=tvimagemhd swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf live=true timeout=15 pageUrl=http://fpdownload.adobe.com/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/band_nacional.png</thumbnail>
 </item>
 
