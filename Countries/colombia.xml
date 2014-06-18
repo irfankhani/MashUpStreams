@@ -19,6 +19,7 @@ rtmp://go.fasts.tv/ app=fasts playpath=$doregex[file] token=$doregex[token] swfU
 <expres>'file': '([^ .]*)</expres>
 <page>http://www.fasts.tv/embedplayer.php?width=640&amp;height=410&amp;id=caracol19&amp;autoplay=true</page>
 <referer>http://www.mitierratvco2.com/canales/canal205.html</referer>
+</regex>
 </link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
 </item>
