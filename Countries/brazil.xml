@@ -42,7 +42,7 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>O Globo HD</title>
-<link>rtmp://178.162.199.161/liverepeat playpath=csp swfUrl=http://www.curtirtv.net/pla.swf live=true timeout=15 pageUrl=http://abcast.biz/assistirtv.php?file=csp&width=468&height=386</link>
+<link>rtmp://m.streamfull.com.ar:8979/live playpath=globotv swfUrl=http://streamfull.com.ar/js.swf live=true timeout=15 pageUrl=http://tv-online.in/globo-tv-live-hd</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 
