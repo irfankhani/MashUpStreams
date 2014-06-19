@@ -7,35 +7,20 @@
 <item>
 <title>Caracol TV</title>
 <link>
-rtmp://go.fasts.tv/ app=fasts playpath=$doregex[file] token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
 <regex>
-<name>token</name>
-<expres>"token":"([^"]*)</expres>
-<page>http://www.fasts.tv/file.php</page>
-<referer>http://www.fasts.tv</referer>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://www.castalba.tv/channel/22957</page>
+<referer>http://cdn.mirando.me/rcnpopup1.php</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>'file': '([^ .]*)</expres>
-<page>http://www.fasts.tv/embedplayer.php?width=640&amp;height=410&amp;id=caracol19&amp;autoplay=true</page>
-<referer>http://www.mitierratvco2.com/canales/canal205.html</referer>
+<expres>'file': '([^']*)</expres>
+<page>http://www.castalba.tv/channel/22957</page>
+<referer>http://cdn.mirando.me/rcnpopup1.php</referer>
 </regex>
-</link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>RCN 2</title>
-<link>
-rtmp://go.fasts.tv/ app=fasts playpath=rcncol13 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
-<regex>
-<name>token</name>
-<expres>"token":"([^"]*)</expres>
-<page>http://www.fasts.tv/file.php</page>
-<referer>http://www.fasts.tv</referer>
-</regex>
-</link>
-<thumbnail>http://www.canalrcnmsn.com/sites/all/themes/canalrcn/images/ic_logorcn.png</thumbnail>
 </item>
 
 <item>
@@ -94,15 +79,7 @@ rtmp://go.fasts.tv/ app=fasts playpath=rcncol13 token=$doregex[token] swfUrl=htt
 
 <item>
 <title>RCN</title>
-<link>
-rtmp://go.fasts.tv/ app=fasts playpath=colr09052014 token=$doregex[token] swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=true timeout=15 pageUrl=http://www.fasts.tv/
-<regex>
-<name>token</name>
-<expres>"token":"([^"]*)</expres>
-<page>http://www.fasts.tv/file.php</page>
-<referer>http://www.fasts.tv</referer>
-</regex>
-</link>
+<link>http://ooyalahd2-f.akamaihd.net/i/enno003_delivery@198807/index_564_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://www.mediamoves.com/wp-content/uploads/2012/07/rcn.jpg</thumbnail>
 </item>
 

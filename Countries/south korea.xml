@@ -33,7 +33,7 @@ rtmp://news24kbs-2.gscdn.com/ app=news24_home_800/_definst_/  playpath=?id=2101&
 <item>
 <title>MBC US</title>
 <link>mms://onair.usmbc.co.kr/kkangTV</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/mbc_kr_america.jpg</thumbnail>
 </item>
 
 <item>
@@ -45,13 +45,13 @@ rtmp://news24kbs-2.gscdn.com/ app=news24_home_800/_definst_/  playpath=?id=2101&
 <item>
 <title>MBC YS</title>
 <link>mms://vod.ysmbc.co.kr/hd1018</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/mbc_kr_yeosu.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC WJ</title>
 <link>mms://live.wjmbc.co.kr/wjmbctv</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/mbc_kr_wonju.jpg</thumbnail>
 </item>
 
 <item>
@@ -63,57 +63,61 @@ rtmp://news24kbs-2.gscdn.com/ app=news24_home_800/_definst_/  playpath=?id=2101&
 <item>
 <title>GTB SBS</title>
 <link>mms://118.44.35.188/GTBLive824l</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sbs_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>KCB SBS</title>
 <link>mms://211.224.129.155/kbc_tv</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sbs_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>TCB SBS</title>
 <link>mms://211.224.129.155/tbc_tv</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sbs_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>TJB SBS</title>
 <link>mms://59.26.124.114/TJB_TV_ONLIVE</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/tjb_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>UBC SBS</title>
 <link>mms://218.146.252.66/Iive_CIubTV</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/ubc_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>UBC SBS HD</title>
 <link>mms://218.146.252.65/cIubtv2</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/ubc_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>JTV SBS</title>
 <link>mms://114.108.140.39/jtv_live_vod</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/jtv_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>CJB SBS</title>
 <link>mms://211.224.129.155/cjb_tv</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/cjb_kr.jpg</thumbnail>
 </item>
 
 <item>
 <title>JIBS SBS</title>
 <link>mms://121.254.230.3/TVLIVE</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/jibs.jpg</thumbnail>
 </item>
 
-
+<item> 
+<title>G1</title> 
+<link>rtmp://smart.igtb.co.kr/live playpath=stream.sdp swfUrl=http://www.igtb.co.kr/vod/player.swf live=true timeout=15 pageUrl=http://www.igtb.co.kr/pop/g1_onair.asp</link> 
+<thumbnail>http://www.g1tv.co.kr/images/common/logo.gif<thumbnail/>
+</item>
 
 </channel>
