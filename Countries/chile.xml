@@ -24,7 +24,7 @@
 
 <item>
 <title>Canal 13</title>
-<link>rtmp://edge5.video.vaughnsoft.net:443/ app=live?30dabc4871922a1314192e925ab7961d playpath=live_chilenext token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=true timeout=15 pageUrl=http://vaughnlive.tv/embed/video/chilenext?viewers=true&watermark=left&autoplay=true</link>
+<link>http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-400.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal13_cl.png</thumbnail>
 </item>
 
