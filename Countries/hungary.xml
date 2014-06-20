@@ -6,38 +6,65 @@
 
 <item>
 <title> M1 TV</title>
-<link>mms://streamer1.carnation.hu/mtvonlinem1</link>
+<link>
+$doregex[file]
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://admin.gamaxmedia.hu/player-inside-full?streamid=mtv1live&amp;userid=mtva&amp;height=260&amp;width=460</page>
+<referer>http://www.mediaklikk.hu/media-lejatszo/?ch=1</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/m1_ua.png</thumbnail>
 </item>
 
-
 <item>
 <title>Duna TV</title>
-<link>mms://80.249.172.28/dunatv</link>
+<link>
+$doregex[file]
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://admin.gamaxmedia.hu/player-inside-full?streamid=dunalive&amp;userid=mtva&amp;height=260&amp;width=460</page>
+<referer>http://www.mediaklikk.hu/media-lejatszo/?ch=3</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/duna_tv.png</thumbnail>
 </item>
-
 
 <item>
 <title>M2 TV</title>
-<link>mms://streamer1.carnation.hu/mtvonlinem2</link>
+<link>
+$doregex[file]
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://admin.gamaxmedia.hu/player-inside-full?streamid=mtv2live&amp;userid=mtva&amp;height=260&amp;width=460</page>
+<referer>http://www.mediaklikk.hu/media-lejatszo/?ch=2</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/m2_ua.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>ATV</title>
-<link>rtmp://195.228.156.68/atvliveedge/_definst_ playpath=atvstream_2_aac swfUrl=http://www.atv.hu/js/flowplayer/flowplayer-3.2.15.swf live=true timeout=15 pageUrl=http://www.atv.hu/elo-adas</link>
+<link>rtmp://195.228.75.97/ app=atvliveedge/_definst_ playpath=atvstream_2_aac swfUrl=http://www.atv.hu/js/flowplayer/flowplayer-3.2.15.swf live=true timeout=15 pageUrl=http://www.atv.hu/elo-adas</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/andina_tv_plus.jpg</thumbnail>
 </item>
 
-
 <item>
-<title>Duna II Autonomia</title>
-<link>mms://80.249.172.27/autonomia</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/duna_tv.png</thumbnail>
+<title>Duna World</title>
+<link>
+$doregex[file]
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://admin.gamaxmedia.hu/player-inside-full?streamid=dunaworldlive&amp;userid=mtva&amp;height=260&amp;width=460</page>
+<referer>http://www.mediaklikk.hu/media-lejatszo/?ch=4</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/duna_world.png</thumbnail>
 </item>
-
 
 <item>
 <title>Melitta TV</title>
@@ -45,18 +72,15 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/melitta_tv_hu.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>BP TV</title>
-<link>mms://stream02.gtk.hu/bptv</link>
+<link>rtmpt://91.82.85.44:1935/ app=relay20 playpath=bptv.sdp swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf live=true timeout=15 pageUrl=http://wdsonline.gdsinfo.com/itplayer/bptv_inc.php</link>
 <thumbnail>http://static.ipaustralia.com.au/store3/14/52/1452450.1.high.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Fehervar TV</title>
-<link>rtmpt://91.82.85.71:1935/liverelay playpath=fehervartv.sdp swfUrl=http://video72.onstreaming.de/itplayer/player.swf live=true timeout=15 pageUrl=http://video72.onstreaming.de/itplayer/fehervartv_inc.php</link>
+<link>http://91.82.85.71:1935/liverelay/fehervartv.sdp/playlist.m3u8</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c0.7.180.180/s160x160/931382_602872416399327_532905611_a.jpg</thumbnail>
 </item>
 
