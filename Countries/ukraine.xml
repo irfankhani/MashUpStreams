@@ -4,6 +4,52 @@
 <name>Ukrainian TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Kanal 5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_ZXxWM794kI</link>
+<thumbnail>https://yt3.ggpht.com/-C9VRVX0p-JA/AAAAAAAAAAI/AAAAAAAAAAA/kA69xoDl50k/s88-c-k-no/photo.jpg</thumbnail>
+</item>
 
+<item>
+<title>1+1</title>
+<link>http://stream2g04-drl.1plus1.ua/live/mp4:189931/chunklist.m3u8</link>
+<thumbnail>http://www.1plus1.ua/static/img/l/logo-1plus1.png</thumbnail>
+</item>
+
+<item>
+<title>Zik</title>
+<link>rtmp://217.20.164.182:80/live playpath=zik392p.stream swfUrl=http://media.wnet.ua/zik/smp/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://zik.ua/tv/teleprograma/</link>
+<thumbnail>http://zik.ua/red/img/tv/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel 11</title>
+<link>rtmp://212.3.106.230/live playpath=livestream swfUrl=http://www.11channel.dp.ua/res/broadcast/player.swf live=true timeout=15 pageUrl=http://www.11channel.dp.ua/static/broadcast.html</link>
+<thumbnail>http://www.11channel.dp.ua/res/gfx/logo.gif</thumbnail>
+</item>
+
+<item>
+<title>TVI</title>
+<link>http://media.tvi.com.ua:1935/live/smil:hls.smil/playlist.m3u8</link>
+<thumbnail>http://tvi.ua/catalog/view/theme/new/image/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Hromadske</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l4HeKFy2U8k</link>
+<thumbnail>https://yt3.ggpht.com/-p31Ot-UmPks/AAAAAAAAAAI/AAAAAAAAAAA/4bKlgSnfyOs/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRK Glas</title>
+<link>rtmp://gigaz.wi.com.ua:1935/ app=hallDemo playpath=glassua swfUrl=http://tvhall.tv/swf/StrobeMediaPlayback.swf live=true timeout=15 pageUrl=http://www.glas.org.ua/video.html</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Espreso TV</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HQEhZZWrEHk</link>
+<thumbnail>https://yt3.ggpht.com/-bVnYWgZunWc/AAAAAAAAAAI/AAAAAAAAAAA/lscLbX2rp2A/s88-c-k-no/photo.jpg</thumbnail>
+</item>
 
 </channel>
