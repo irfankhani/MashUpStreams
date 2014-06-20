@@ -5,6 +5,24 @@
 <thumbnail> </thumbnail>
 
 <item>
+<title>YTN Science HD</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lhqhWR0ckfM</link>
+<thumbnail>https://yt3.ggpht.com/-YvIR_r08B7o/AAAAAAAAAAI/AAAAAAAAAAA/3fL15BiJAr4/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>와이티엔(24시간)HD 라이브</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mtW2UQSAC2k</link>
+<thumbnail>http://wwitv.com/tvlogos/b1976.jpg</thumbnail>
+</item>
+
+<item>
+<title>KTV HD</title>
+<link>rtmp://218.38.152.31/klive playpath=klive.stream swfUrl=http://www.ktv.go.kr/common/vodplayer/HDplayer/swf/ktv_hd_live_player.swf live=true timeout=15 pageUrl=http://www.ktv.go.kr/onair.jsp</link>
+<thumbnail>http://www.ktv.go.kr/_images/main2013/logo_top.png</thumbnail>
+</item>
+
+<item>
 <title>KBS 24</title>
 <link>
 rtmp://news24kbs-2.gscdn.com/ app=news24_home_800/_definst_/  playpath=?id=2101&amp;secure=$doregex[token] conn=S:OK swfUrl=http://news.kbs.co.kr/js/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://news.kbs.co.kr/
