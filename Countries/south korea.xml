@@ -133,9 +133,10 @@ rtmp://news24kbs-2.gscdn.com/ app=news24_home_800/_definst_/  playpath=?id=2101&
 </item>
 
 <item> 
-<title>G1</title> 
+<title>G1</title>
 <link>rtmp://smart.igtb.co.kr/live playpath=stream.sdp swfUrl=http://www.igtb.co.kr/vod/player.swf live=true timeout=15 pageUrl=http://www.igtb.co.kr/pop/g1_onair.asp</link> 
-<thumbnail>http://www.g1tv.co.kr/images/common/logo.gif<thumbnail/>
+<thumbnail>http://www.g1tv.co.kr/images/common/logo.gif</thumbnail> 
 </item>
+
 
 </channel>
