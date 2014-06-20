@@ -480,7 +480,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>Star Movies</title>
-<link>http://154.57.145.118/flv/539a7d1de0f61/testat123?0.6555049549788237</link>
+<link>http://154.57.145.108/flv/4f73bdca6bacc/testat123?0.14505991386249661</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_tw_hd.png</thumbnail>
 </item>
 </channel>
