@@ -73,8 +73,8 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 
 <item>
 <title>SeÒal Colombia</title>
-<link>rtmp://cdns840stu1010.multistream.net:80/rtvc2live playpath=live-500 swfUrl=http://cdn.mirando.me/swf/playercanales7-2f3e41a.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/canal-senal-colombia-en-vivo.php</link>
-<thumbnail>http://www.senalcolombia.tv/templates/senalcolombia-energia3/images/sc/header3/logo_senalcol.png</thumbnail>
+<link>rtmp://cdns840stu1021.multistream.net:1935/ app=rtvclive/_definst_ playpath=live-500 swfUrl=http://www.streamvdn.com/embed/Player.swf/[[DYNAMIC]]/3 live=true timeout=15 pageUrl=http://www.streamvdn.com/embed/78ca6516</link>
+<thumbnail>http://www.senalinstitucional.gov.co/sites/all/themes/senalinstitucional/images/logo_ppal.png</thumbnail>
 </item>
 
 <item>

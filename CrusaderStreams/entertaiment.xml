@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Zee Alwan[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Zee Alwan, Updated Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -25,13 +25,13 @@
 
 <item>
 <title>Talaqie</title>
-<link>http://live.rtv.gov.sy/live/Talaqie/Talaqie_HQ.m3u8</link>
+<link>http://82.137.248.16:1935/Talaqie/TalaqieLive3/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e7/Talaqie_Logo.png</thumbnail>
 </item>
 
 <item>
 <title>Syria Drama</title>
-<link>http://live.rtv.gov.sy/live/Drama/Drama_HQ.m3u8</link>
+<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png</thumbnail>
 </item>
 
@@ -65,11 +65,11 @@
 <link>http://85.91.143.23:1935/58891/58891.stream/playlist.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/54.gif</thumbnail>
 </item>
-	
+
 <item>
 <title>Al Hayat Cinema</title>
 <link>
-rtmp://193.164.132.105:1944/live playpath=alhayat_cinema?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+rtmp://iptv1.web-medias.net:8080/live/ playpath=alhayat_cinema?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
 <regex>
 <name>e</name>
 <expres>e=([^&]*)</expres>
@@ -227,7 +227,7 @@ rtmp://193.164.132.105:1944/live playpath=alhayat_cinema?e=$doregex[e]&amp;st=$d
 <item>
 <title>Fox Movies</title>
 <link>
-rtmp://193.164.132.105:1944/live playpath=fox_movies?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+rtmp://iptv1.web-medias.net:8080/live/ playpath=fox_movies?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
 <regex>
 <name>e</name>
 <expres>e=([^&]*)</expres>
@@ -361,7 +361,7 @@ rtmp://193.164.132.105:1944/live playpath=fox_movies?e=$doregex[e]&amp;st=$doreg
 <item>
 <title>MBC MAX</title>
 <link>
-rtmp://193.164.132.105:1944/live playpath=mbc_max?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_max?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
 <regex>
 <name>e</name>
 <expres>e=([^&]*)</expres>
@@ -645,7 +645,7 @@ rtmp://193.164.132.105:1944/live playpath=mbc_max?e=$doregex[e]&amp;st=$doregex[
 <item>
 <title>MBC 3  (Link 2)</title>
 <link>
-rtmp://193.164.132.105:1944/live playpath=mbc_3?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_3?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
 <regex>
 <name>e</name>
 <expres>e=([^&]*)</expres>
@@ -665,7 +665,7 @@ rtmp://193.164.132.105:1944/live playpath=mbc_3?e=$doregex[e]&amp;st=$doregex[st
 <item>
 <title>MBC 4  (Link 2)</title>
 <link>
-rtmp://193.164.132.105:1944/live playpath=mbc_4?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
+rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_4?e=$doregex[e]&amp;st=$doregex[st] swfUrl=http://www.web-medias.net/jwplayer.swf live=true timeout=15 pageUrl=http://www.web-medias.net/
 <regex>
 <name>e</name>
 <expres>e=([^&]*)</expres>
