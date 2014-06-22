@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
 <name>Indian TV Channels</name>
@@ -283,6 +283,89 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 </item>
 
 <item>
+<title>Sony TV</title>
+<link>rtmp://46.23.67.114/live playpath=sonytvsd?id=15207 conn=S:OK swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ezcast.tv/embedded/sonytvsd/1/600/430</link>
+<thumbnail>http://blacktvlive.com/SONYHD.gif</thumbnail>
+</item>
+
+<item>
+<title>Zee TV</title>
+<link>rtmp://109.123.114.162/live playpath=zeetvhd?id=15204 conn=S:OK swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ezcast.tv/embedded/zeetvhd/1/600/430</link>
+<thumbnail>http://blacktvlive.com/logo/zee_tv_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Set Max</title>
+<link>rtmp://50.22.223.51/live playpath=sixnew?id=15252 conn=S:OK swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ezcast.tv/embedded/sixnew/1/600/430</link>
+<thumbnail>http://blacktvlive.com/set_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony Six</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=six77 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</link>
+<thumbnail>http://blacktvlive.com/SonySix.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ten Action</title>
+<link>rtmp://206.190.140.36/live playpath=s247tenactionhdad?id=16434 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/s247tenactionhdad/2/600/430</link>
+<thumbnail>http://blacktvlive.com/logo/ten_action.png</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 3</title>
+<link>rtmp://206.190.151.8/live playpath=s247star341?id=16107 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/s247star341/2/600/430</link>
+<thumbnail>http://blacktvlive.com/logo/star_sports3_in.png</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 4</title>
+<link>rtmp://206.190.150.50/live playpath=westar41?id=16282 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/westar41/2/600/430</link>
+<thumbnail>http://blacktvlive.com/logo/star_sports4_in.png</thumbnail>
+</item>
+
+<item>
+<title>Movies OK</title>
+<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp.m3u8?trackingid=3310010000&amp;os=desktop</link>
+<thumbnail>http://blacktvlive.com/logo/movies_ok_in.png</thumbnail>
+</item>
+
+<item>
+<title>Sahara One</title>
+<link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD67_W_150.sdp/manifest.f4m</link>
+<thumbnail>http://blacktvlive.com/logo/sahara_one_in.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Premier</title>
+<link>http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeepremier@180466/master.m3u8</link>
+<thumbnail>http://blacktvlive.com/logo/zee_premier.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Action</title>
+<link>http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeaction@180466/master.m3u8</link>
+<thumbnail>http://blacktvlive.com/logo/zee_action.png</thumbnail>
+</item>
+
+<item>
+<title>News Express</title>
+<link>rtmp://live.itv.net.in/ app=jhatpat99poo playpath=myStream.sdp swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://blacktvlive.com/</link>
+<thumbnail>http://blacktvlive.com/logo/news_express_in.png</thumbnail>
+</item>
+
+<item>UTV Action</title>
+<link>http://live-ak2.liverelay.com/UTVAction/01.m3u8</link>
+<thumbnail>http://blacktvlive.com/logo/utv_action.png</thumbnail>
+</item>
+
+<item>
+<title>Bindass TV</title>
+<link>http://yupptvrtmp-lh.akamaihd.net/i/nwk_zeetelpacific@180285/master.m3u8</link>
+<thumbnail>http://blacktvlive.com/logo/utv_bindass.png</thumbnail>
+</item>
+
+<item>
 <title>NDTV Profit</title>
 <link>http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtvprofitlive256</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a3/NDTV-Profit.pngthumbnail>
@@ -410,57 +493,6 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>Zee News</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://zeenews.dittotv.com/?header=no</page>
-<referer>http://zeenews.india.com/live/</referer>
-</regex>
-</link>
-<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>371
-372
-373
-374
-375
-376
-377
-378
-379
-380
-381
-382
-383
-384
-385
-386
-387
-388
-389
-390
-391
-392
-393
-394
-395
-396
-397
-398
-399
-400
-401
-402
-403
-404
-405
-406
-407
-408
-409
-410
-411
-412
-413
 <link>$doregex[url]
 <regex>
 <name>url</name>
