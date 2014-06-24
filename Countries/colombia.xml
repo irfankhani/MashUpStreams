@@ -6,8 +6,8 @@
 
 <item>
 <title>Caracol TV</title>
-rtmp://206.190.153.70/live playpath=janjunito?id=16655 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/janjunito/1/620/400</link>
-<thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
+<link>rtmp://206.190.153.70/live playpath=janjunito?id=16655 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/janjunito/1/620/400</link>
+<thumbnail>http://arts1091.unsw.wikispaces.net/file/view/caracol_tv.png/357495512/198x261/caracol_tv.png</thumbnail>
 </item>
 
 <item>
