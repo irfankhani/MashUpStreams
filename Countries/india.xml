@@ -12,15 +12,7 @@
 
 <item>
 <title>B4U Music</title>
-<link>
-$doregex[file]
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://www.widih.in/watch-tv/2743/b4u-music-thai-server+live+tv+streaming</page>
-<referer> </referer>
-</regex>
-</link>
+<link>http://www.widih.in/thaim3u8/81ff107849124ff389814b0b8816b1ba.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-f5hyhy6Cwyk/UU3r56AKX-I/AAAAAAAAAuU/jRqDukiKugc/s1600/B4U-Music.jpg</thumbnail>
 </item>
 

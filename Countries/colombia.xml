@@ -6,20 +6,7 @@
 
 <item>
 <title>Caracol TV</title>
-<link>
-$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://www.castalba.tv/channel/22957</page>
-<referer>http://cdn.mirando.me/rcnpopup1.php</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://www.castalba.tv/channel/22957</page>
-<referer>http://cdn.mirando.me/rcnpopup1.php</referer>
-</regex>
+rtmp://206.190.153.70/live playpath=janjunito?id=16655 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embedplayer/janjunito/1/620/400</link>
 <thumbnail>http://www.portalcolombia.co/wp-content/uploads/2010/01/caracol-tv.jpg</thumbnail>
 </item>
 
@@ -68,7 +55,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 <item>
 <title>Canal 9</title>
 <link>rtmp://cdns840stu1010.multistream.net:80/rtvclive playpath=live-500 swfUrl=http://img71.xooimage.com/files/d/b/2/playercanales7-2f3e41a.swf live=true timeout=15 pageUrl=http://cdn.mirando.me/canal-9-institucional-en-vivo.php</link>
-<thumbnail>http://www.institucional.gov.co/templates/institucionalNew/images/ins/logo_institucional.png</thumbnail>
+<thumbnail>http://www.senalinstitucional.gov.co/sites/all/themes/senalinstitucional/images/logo_ppal.png</thumbnail>
 </item>
 
 <item>
@@ -85,7 +72,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 
 <item>
 <title>NTN 24</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bd43YNgZsY4</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3acU5872GLs</link>
 <thumbnail>http://www.ntn24.com/sites/all/themes/ntn24/images/logontn24.png</thumbnail>
 </item>
 
