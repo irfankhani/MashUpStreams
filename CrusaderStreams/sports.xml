@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Add Sources For All 3 Languages, Fixed Bein 1 & 2 HD French[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Added 720p For Bein Arabic 1-8[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -162,6 +162,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.27.237.122:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein13hd865  swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b1 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=CISXO&amp;g=UOASUSAPNWEK live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
@@ -171,6 +172,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.203:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein6hd794 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b2 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=EGZUA&amp;g=UIDXMWPBSZLS live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
 </item>
@@ -180,6 +182,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=3287 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b3 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch307_1_2400@s12974?primaryToken=2072942469_1f07d11700263a89fddadbc405d3f2ad&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=EWLHU&amp;g=JUIPXPQKKGHA live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
 </item>
@@ -189,6 +192,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein4hd218 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b4 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch305_1_2400@s12971?primaryToken=2072942408_f4bde4a56e5e0b03aef7a73ac2caa11f&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=GYHVD&amp;g=OZDWNDEXYSGL live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/MCi8WTD.jpg</thumbnail>
 </item>
@@ -198,6 +202,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein5hd378 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b5 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch306_1_2400@s12973?primaryToken=2072942443_ff8a7fee37c15be8c413823eb908fc33&amp;v=3.4.0&amp;fp=WIN%2014,0,0,125&amp;r=USHAV&amp;g=RFPXJOPFPSCL live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
 </item>
@@ -207,6 +212,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein6hd794 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b6 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch301_1_2400@s12723?primaryToken=2072935324_20d063ea291cdface6bd9256bc7bac96&amp;v=3.4.0&amp;fp=WIN+10%2C1%2C53%2C64&amp;r=EILKH&amp;g=HDAWZNGIGTTS live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
 </item>
@@ -216,6 +222,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=7665 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b7 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch302_1_2400@s12838?primaryToken=2072935294_cc353db70a4eb2df8c07bf28ea2c523b&amp;v=3.4.0&amp;fp=WIN%252010%2C1%2C53%2C64&amp;r=CSTKU&amp;g=LJOBEXJXPAKP live=true swfVfy=true</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
 </item>
@@ -225,6 +232,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <link>
 <sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=8946 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=b1 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.mootem.com/</sublink>
+<sublink>http://110751-f.akamaihd.net/ajswebch304_1_2400@s12970?primaryToken=2072942389_ab7866a36783c697795851b4ae83529f&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=SRHCY&amp;g=JPVERSFUEBGE033699 live=true swfVfy=true</sublink>
 <thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
 </item>
 
