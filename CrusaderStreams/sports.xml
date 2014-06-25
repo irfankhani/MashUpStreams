@@ -65,13 +65,13 @@
 </item>
 
 <item>
-<title>Bein Sports Spanish</title>
+<title>Bein Sports Spanish  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://174.36.146.69/stream playpath=as3sdadafsd?id=1412 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.liveflash.tv/embedplayer/as3sdadafsd/1/650/400</link>
 <thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports USA HD</title>
+<title>Bein Sports USA HD  [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
 <link>rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450</link>
 <thumbnail>http://www.tv-envivo.com.ar/wp-content/uploads/2013/10/bein-sport.png</thumbnail>
 </item>

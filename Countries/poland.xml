@@ -11,14 +11,14 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 <regex>
 <name>streamer</name>
 <expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/channel/22690</page>
-<referer> </referer>
+<page>http://castalba.tv/embed.php?cid=22972&amp;wh=630&amp;ht=420&amp;r=goodcast.tv</page>
+<referer>http://goodcast.tv/e/10.html</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/channel/22690</page>
-<referer> </referer>
+<page>http://castalba.tv/embed.php?cid=22972&amp;wh=630&amp;ht=420&amp;r=goodcast.tv</page>
+<referer>http://goodcast.tv/e/10.html</referer>
 </regex>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/NSport_logo.jpg</thumbnail>

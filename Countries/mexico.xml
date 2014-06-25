@@ -12,7 +12,7 @@
 
 <item>
 <title>Televisa</title>
-<link>rtmp://46.23.67.114/live playpath=star16en2014?id=69417 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/star742a/1/600/400</link>
+<link>rtmp://149.255.37.164/live playpath=starjun?id=5744 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.streamify.tv/embedplayer/starjun/1/600/400</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/02/Watch-Live-Online-Televisa-en-Vivo-Logo.jpg</thumbnail>
 </item>
 
@@ -54,8 +54,23 @@
 
 <item> 
 <title>Univision</title> 
-<link>rtmp://195.154.115.56:80/live Playpath=file:by86to8p1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.byetv.org/embed.php?a=4446&id=&width=665&height=400&autostart=true&strech= live=true timeout=15</link> 
+<link>
+$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/
+<regex>
+<name>streamer</name>
+<expres>'streamer': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=15648&amp;wh=625&amp;ht=395&amp;r=www.mirandotv.net</page>
+<referer>http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^']*)</expres>
+<page>http://castalba.tv/embed.php?cid=15648&amp;wh=625&amp;ht=395&amp;r=www.mirandotv.net</page>
+<referer>http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html</referer>
+</regex>
+</link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW70cx-uJo3CBjJQ-K6d0vESjwL1R10Ql-0QTUNFveGoKJyhfr</thumbnail>
+</item>
 
 <item>
 <title>Telemundo</title>
