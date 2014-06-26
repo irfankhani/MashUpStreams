@@ -7,9 +7,15 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Zee Alwan, Updated Channels[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Melody, Removed Non-Working Channels[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
+
+<item>
+<title>Cario Drama</title>
+<link>rtmpe://108.178.40.250/live/ playpath=10127.stream  swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf pageUrl=http://www.20sat.com/ live=true timeout=15</link>
+<thumbnail>http://www.livetv.tn/images/icons/64.gif</thumbnail>
+</item>
 
 <item>
 <title>Al Kahera Wal Nas</title>
@@ -87,99 +93,9 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=alhayat_cinema?e=$doregex[e]&amp
 </item>
 
 <item>
-<title>LBC</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch28?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://fikrconferences.org/sites/default/files/lbc-logo.jpg?1352659193</thumbnail>
-</item>
-
-<item>
 <title>Aljadeed (Link 2)</title>
 <link>rtsp://212.83.150.28/channel12</link>
 <thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
-</item>
-
-<item>
-<title>OSN Yahala</title>
-<link>http://88.150.198.74/maroc65/maroc65/31.ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png</thumbnail>
-</item>
-
-<item>
-<title>OSN Yahala HD +2</title>
-<link>http://88.150.198.74/maroc65/maroc65/30.ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd_plus2.png</thumbnail>
-</item>
-
-<item>
-<title>OSN Shabab</title>
-<link>http://88.150.198.74/maroc65/maroc65/32.ch</link>
-<thumbnail>https://static.elcinema.com/images/channels/160px/1250.png</thumbnail>
-</item>
-
-<item>
-<title>OSN Movies Action HD</title>
-<link>http://88.150.198.74/maroc65/maroc65/25.ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/oo/osn_movies_action_hd.png</thumbnail>
-</item>
-
-<item>
-<title>Art Cinema</title>
-<link>http://88.150.198.74/maroc65/maroc65/33.ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_cinema.png</thumbnail>
-</item>
-
-<item>
-<title>ART Hekayat</title>
-<link>http://88.150.198.74/maroc65/maroc65/34.ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_hekayat.png</thumbnail>
-</item>
-
-<item>
-<title>ART Hekayat 2</title>
-<link>http://88.150.198.74/maroc65/maroc65/35.ch</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/art_hekayat2.png</thumbnail>
-</item>
-
-<item>
-<title>OSN 2+</title>
-<link>http://88.150.198.74/maroc65/maroc65/26.ch</link>
-<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OMX.png</thumbnail>
-</item>
-
-<item>
-<title>OSN Yahala Drama</title>
-<link>http://88.150.198.74/maroc65/maroc65/29.ch</link>
-<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OCM.png</thumbnail>
-</item>
-
-<item>
-<title>OSN Comedy</title>
-<link>http://88.150.198.74/maroc65/maroc65/27.ch</link>
-<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OCO.png</thumbnail>
-</item>
-
-<item>
-<title>OSN</title>
-<link>http://88.150.198.74/maroc65/maroc65/24.ch</link>
-<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OM1.png</thumbnail>
-</item>
-
-<item>
-<title>OSN Movies Premiere</title>
-<link>http://88.150.198.74/maroc65/maroc65/28.ch</link>
-<thumbnail>http://www.osn.com/$Common/Image/Logo/Channel/Horizontal/85x36/OPX.png</thumbnail>
-</item>
-
-<item>
-<title>Art Aflam</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch40?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://images1.wikia.nocookie.net/__cb20100312152517/logopedia/images/thumb/6/69/ART_logo.png/150px-ART_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Art Aflam 2</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch41?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.ariase.com/media/television/logo-132x99/art_aflam2.jpg</thumbnail>
 </item>
 
 <item>
@@ -207,22 +123,10 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=alhayat_cinema?e=$doregex[e]&amp
 </item>	
 
 <item>
-<title>Egypt 2</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch89?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/89.gif</thumbnail>
-</item>	
-
-<item>
 <title>Fatafeat</title>
 <link>http://live-f01.vustream.net/live/livestream3/negmtv.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/26.gif</thumbnail>
 </item>	
-
-<item>
-<title>Founoun</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch119?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/119.gif</thumbnail>
-</item>
 
 <item>
 <title>Fox Movies</title>
@@ -245,45 +149,9 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=fox_movies?e=$doregex[e]&amp;st=
 </item>
 
 <item>
-<title>Masrawi Aflam</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch127?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/127.gif</thumbnail>
-</item>
-
-<item>
-<title>Fx</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch120?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/120.gif</thumbnail>
-</item>
-
-<item>
 <title>Moga Comedy  [COLOR=FFFF0000]Works On Gotham Only[/COLOR]</title>
 <link>plugin://plugin.video.jtv.archives/?mode=get_channel&amp;name=20satttt&amp;play=true</link>
 <thumbnail>http://www.livetv.tn/images/icons/67.gif</thumbnail>
-</item>
-
-<item>
-<title>Panorama Drama</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch117?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/117.gif</thumbnail>
-</item>
-
-<item>
-<title>Star Cinema</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch141?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/141.gif</thumbnail>
-</item>
-
-<item>
-<title>Tele Liban</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch266?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/266.gif</thumbnail>
-</item>
-
-<item>
-<title>Time Comedy</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch47?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
-<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -299,57 +167,15 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=fox_movies?e=$doregex[e]&amp;st=
 </item>
 
 <item>
-<title>Top Movies</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch102?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true  timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/102.gif</thumbnail>
-</item>
-
-<item>
 <title>Panorama Drama 2</title>
 <link>http://38.99.146.42:7777/PanoramaDrama2.m3u8</link>
 <thumbnail>http://www.etfarag.com/ChannelsImages/Panorama%20Drama%202black.gif</thumbnail>
 </item>
 
 <item>
-<title>Panorama Comedy</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch114?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/114.gif</thumbnail>
-</item>
-
-<item>
 <title>Palestine</title>
 <link>rtmp://vstream2.hadara.ps:1935/pbc playpath=pbc_1 swfUrl=http://www.arabztv.net/player.swf pageUrl=http://www.megalivestream.com/palestine-tv/ live=true timeout=15</link>
 <thumbnail>http://www.megalivestream.com/wp-content/uploads/2013/07/Palestine-TV-570x172_c.png</thumbnail>
-</item>
-
-<item>
-<title>Fox</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch107?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/107.gif</thumbnail>
-</item>
-
-<item>
-<title>Cina Majastic</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch295?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/majestic_cinema.png</thumbnail>
-</item>
-
-<item>
-<title>Cima</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch109?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/109.gif</thumbnail>
-</item>
-
-<item>
-<title>Cario Drama</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch64?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/64.gif</thumbnail>
-</item>
-
-<item>
-<title>Cario Cinema</title>
-<link>rtmp://tdsiptv.ddns.me/live playpath=ch63?code=83fb96c95242dfdf2aada1b9419e7176  swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn live=true timeout=15</link>
-<thumbnail>http://www.livetv.tn/images/icons/63.gif</thumbnail>
 </item>
 
 <item>
@@ -422,7 +248,7 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_max?e=$doregex[e]&amp;st=$do
 
 <item>
 <title>Sama Dubai</title>
-<link>rtmp://dmiLiveSamaDubai.flash.internapcdn.net/ app=dmiLiveSamaDubai/live_1 playpath=dmilivesamadubai_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=samadubai</link>
+<link>http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/playlist.m3u8</link>
 <thumbnail>http://img1.moneycontrol.com/images/entitygame/big/Sama_Dubai_300.jpg</thumbnail>
 </item>
 
@@ -494,7 +320,8 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_max?e=$doregex[e]&amp;st=$do
 
 <item>
 <title>Rotana Cinema</title>
-<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2615.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<link>
+rtmp://$doregex[url] app=live/$doregex[key] playpath=2615.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
 <regex>
 <name>url</name>
 <expres>"low".*rtmp:....([^\\]*)</expres>
@@ -714,31 +541,31 @@ rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_4?e=$doregex[e]&amp;st=$dore
 
 <item>
 <title>Melody Drama</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bXIUyQoLug8</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_cN8Op5KgIs</link>
 <thumbnail>http://4.bp.blogspot.com/_ayWC2KUhMqw/TJ04otUC4mI/AAAAAAAACds/mCsD_c_kqfU/s1600/melody%2Bdrama%2Blogo%255B1%255D.JPG</thumbnail>
 </item>
 
 <item>
 <title>Melody Hits</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FBBLhRgrw0o</link>
+<link>rtmp://38.96.148.206/ app=Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://freetv247.com/content/melody-hits-channel</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_hits.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Classic</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JpKcJl7W8mA</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JUPtgRnY6I8</link>
 <thumbnail>http://www.tvfrekans.com/wp-content/uploads/2012/11/melody-tv-logo-resmi.jpg</thumbnail>
 </item>
 
 <item>
 <title>Melody Arabia</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VyRxnmfshHc</link>
+<link>rtmp://38.96.148.24/ app=MelodyArabia/ playpath=MArabia_576p swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://freetv247.com/content/melody-arabia-channel</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 
 <item>
 <title>Melody Aflam</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hao_p9Dge0g</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WpGRO2SKmBw</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 </item>
 
