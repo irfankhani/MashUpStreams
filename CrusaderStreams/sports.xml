@@ -160,7 +160,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 1 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://cp101680.live.edgefcs.net/live playpath=13011190628111a@9742 token=#atd%#$ZH swfurl=http://static.surk.tv/player.swf pageurl=http://1cdn.filotv.pw/</sublink>
+<sublink>rtmpe://strm.ukcast.tv/redirect playpath=BN1 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv live=true swfVfy=true timeout=15</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein1 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=CISXO&amp;g=UOASUSAPNWEK live=true swfVfy=true</sublink>
 </link>
