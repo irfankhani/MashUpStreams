@@ -74,7 +74,7 @@ $doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/play
 
 <item>
 <title>Telemundo</title>
-<link>rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_telemar7 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemar7 token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15</link>
+<link>rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_telemar7 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemar7 token=30dabc4871922a1314192e925ab7961dn live=true timeout=15</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/telemar6_320.jpg</thumbnail>
 </item>
 

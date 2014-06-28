@@ -42,7 +42,7 @@ f<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>O Globo HD</title>
-<link>rtmp://94.102.56.186/ app=freelivestreamHD playpath=futebolmelhor swfUrl=http://www.freelivestream.tv/swfs/player.swf live=true timeout=15 pageUrl=http://www.freelivestream.tv/</link>
+<link>rtmp://cdn2.flexstream.net/ app=loadbalance/ playpath=bobo978 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=true timeout=15 pageUrl=http://flexstream.net/embed2.php?file=bobo978&width=468&height=360</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_globo.jpg</thumbnail>
 </item>
 
