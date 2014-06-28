@@ -204,7 +204,7 @@ rtmp://live.wmncdn.net/saamtv/ playpath=$doregex[video] swfUrl=http://player-eme
 
 <item>
 <title>ABP News</title>
-<link>rtmp://54.251.165.11/live/unrestricted app=live/unrestricted playpath=462.sdp  swfUrl=http://www.abplive.in/resources/flash/flowplayer-3.2.16.swf  pageUrl=http://www.abplive.in/livetv/#main</link>
+<link>http://hindiabp-lh.akamaihd.net/z/hindiabp1new_1@192103/manifest.f4m</link>
 <thumbnail>http://4.bp.blogspot.com/-IFaVajKdtsw/T9Vizf2ic2I/AAAAAAAAF-s/l77n7ruKGh8/s1600/abpnews.jpg</thumbnail>
 </item>
 
