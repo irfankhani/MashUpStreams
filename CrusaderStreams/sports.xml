@@ -7,7 +7,7 @@
 
 
 <info>
-<message>[COLOR=FFFF0000]Announcement(s): Fixed Source 2 In Bein Arabic, Added 720p For Bein Arabic 1-8[/COLOR]</message>
+<message>[COLOR=FFFF0000]Announcement(s): Fixes[/COLOR]</message>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
 </info>
 
@@ -160,7 +160,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 1 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://cp101680.live.edgefcs.net/live playpath=1301119711111a@9742 token=#atd%#$ZH swfurl=http://static.surk.tv/player.swf pageurl=http://1cdn.filotv.pw/</sublink>
+<sublink>rtmpe://cp101680.live.edgefcs.net/live playpath=13011190628111a@9742 token=#atd%#$ZH swfurl=http://static.surk.tv/player.swf pageurl=http://1cdn.filotv.pw/</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein1 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=CISXO&amp;g=UOASUSAPNWEK live=true swfVfy=true</sublink>
 </link>
@@ -170,7 +170,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 2 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://185.56.28.203:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=stream1414 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://204.45.157.98/flash playpath=19025 swfurl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/ live=1</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein2 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=EGZUA&amp;g=UIDXMWPBSZLS live=true swfVfy=true</sublink>
 </link>
@@ -180,7 +180,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 3 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein3hd598 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://50.7.28.98/flash playpath=19024 swfUrl=http://static2.sawlive.tv/player.swf live=true timeout=15 pageUrl=http://sawlive.tv/</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein3 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch307_1_2400@s12974?primaryToken=2072942469_1f07d11700263a89fddadbc405d3f2ad&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=EWLHU&amp;g=JUIPXPQKKGHA live=true swfVfy=true</sublink>
 </link>
@@ -190,7 +190,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 4 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein4hd218 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rrtmp://50.7.28.234/flash playpath=19026 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein4 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch305_1_2400@s12971?primaryToken=2072942408_f4bde4a56e5e0b03aef7a73ac2caa11f&amp;v=3.4.0&amp;fp=WIN+14%2C0%2C0%2C125&amp;r=GYHVD&amp;g=OZDWNDEXYSGL live=true swfVfy=true</sublink>
 </link>
@@ -200,7 +200,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 5 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein5hd378 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rrtmp://50.7.28.234/flash playpath=19027 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein5 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch306_1_2400@s12973?primaryToken=2072942443_ff8a7fee37c15be8c413823eb908fc33&amp;v=3.4.0&amp;fp=WIN%2014,0,0,125&amp;r=USHAV&amp;g=RFPXJOPFPSCL live=true swfVfy=true</sublink>
 </link>
@@ -210,7 +210,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
 <item>
 <title>Bein 6 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
 <link>
-<sublink>rtmpe://185.56.28.202:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=bein6hd794 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://50.7.28.234/flash playpath=19028 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/</sublink>
 <sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein6 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.livevideostreams.tv/</sublink>
 <sublink>http://110751-f.akamaihd.net/ajswebch301_1_2400@s12723?primaryToken=2072935324_20d063ea291cdface6bd9256bc7bac96&amp;v=3.4.0&amp;fp=WIN+10%2C1%2C53%2C64&amp;r=EILKH&amp;g=HDAWZNGIGTTS live=true swfVfy=true</sublink>
 </link>
