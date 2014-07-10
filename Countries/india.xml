@@ -5,6 +5,38 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Saab RegEx *http://blacktvlive.com/sabtv.html*</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se/gen_e.php?id=$doregex[get-id]&width=640&height=450</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>file:'(rtmp.*?)'}</expres>
+<page>$doregex[get-unwize]</page>
+</regex>
+
+<regex>
+<name>get-unwize</name>
+<expres>$pyFunction:get_unwise("$doregex[get-decode]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-decode</name>
+<expres>Loading the player.*eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/gen_e.php?id=$doregex[get-id]&width=600&height=450</page>
+<referer>http://des*******s.tv/embed/sab_tv.php</referer>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>id="(.*?)\"</expres>
+<page>http://des*******s.tv/embed/sab_tv.php</page>
+<referer>http://blacktvlive.com/sabtv.html</referer>
+</regex>
+</item>
+
+
+<item>
 <title>Star Gold</title>
 <link>http://154.57.145.181/flv/4e0e6f4dcc2d3/testat123?0.0204551606439054</link>
 <thumbnail>http://images.wikia.com/logopedia/images/f/f0/Star_Gold_2011.png</thumbnail>
